@@ -1,4 +1,3 @@
-````markdown
 # 📱 Zakat-Rechner – Android-App in 3 Sprachen
 
 Diese App wurde im Rahmen eines privaten Projekts mit Android Studio entwickelt und dient der schnellen und einfachen Berechnung der **islamischen Zakat**. Sie ist vollständig auf **Deutsch, Arabisch und Englisch** verfügbar.
